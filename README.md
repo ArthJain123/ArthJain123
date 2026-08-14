@@ -102,9 +102,9 @@ I'm continuously learning and improving by combining **theory with practical pro
 
 ## 🔗 Connect With Me
 
-🐙 **GitHub:** https://github.com/ArthJain123
+🐙 **GitHub:** [ArthJain123](https://github.com/ArthJain123)
 
-💼 **LinkedIn:** [[Connect with me](YOUR_LINKEDIN_URL)](https://www.linkedin.com/in/arth-jain-278191385)
+💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/arth-jain-278191385)
 
 ---
 
