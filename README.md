@@ -58,6 +58,8 @@ Exploratory Data Analysis and Machine Learning project focused on predicting whe
 
 **Tech:** Python • Pandas • Matplotlib • Seaborn • Scikit-learn
 
+🔗 [**View Project**](https://github.com/ArthJain123/Employee-Attrition-Project)
+
 ---
 
 ### 🏠 House Price Prediction
@@ -66,6 +68,8 @@ Machine Learning regression project to predict house prices based on features su
 
 **Tech:** Python • Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn
 
+🔗 [**View Project**](https://github.com/ArthJain123/House-Price-Prediction-using-Machine-Learning)
+
 ---
 
 ### 🩺 Diabetes Prediction
@@ -73,6 +77,8 @@ Machine Learning regression project to predict house prices based on features su
 Machine Learning classification project involving data cleaning, preprocessing, feature scaling, and model evaluation.
 
 **Tech:** Python • Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn
+
+🔗 [**View Project**](https://github.com/ArthJain123/Diabetes-Prediction-ML)
 
 ---
 
