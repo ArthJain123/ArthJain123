@@ -112,6 +112,8 @@ I'm continuously learning and improving by combining **theory with practical pro
 
 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/arth-jain-278191385)
 
+💼 **Kaggle:** [Connect with me at Kaggle](https://www.kaggle.com/arthjain312)
+
 ---
 
 ### 🚀 Keep Learning. Keep Building. Keep Improving.
